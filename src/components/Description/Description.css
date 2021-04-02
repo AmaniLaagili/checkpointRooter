@@ -1,0 +1,21 @@
+.description {
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+}
+.video {
+    margin: auto;
+}
+.para {
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    margin: 20px;
+}
+.button {
+    width: 90px;
+    align-self: flex-end;
+}
+.button a {
+    color: white;
+}
